@@ -39,9 +39,9 @@
 			<div id="table_content" class="row">
 				
 				<div class="col-xs-2">
-					<div class="cat_box-1">CLOUD<div class="cat_note-1"></div></div>
-					<div class="cat_box-2">INGESTION ENGINE<div class="cat_note-2"></div></div>
-					<div class="cat_box-3">COMPRESSION ENGINE<div class="cat_note-3"></div></div>
+					<div class="cat_box-1">Casino Class<div class="cat_note-1"></div></div>
+					<div class="cat_box-2">Player Class<div class="cat_note-2"></div></div>
+					<div class="cat_box-3">Deck Class<div class="cat_note-3"></div></div>
 					<div class="cat_box-4">FILE STORAGE SERVICES<div class="cat_note-4"></div></div>
 					<div class="cat_box-5">PUBLISHING SERVICES<div class="cat_note-5"></div></div>
 					<div class="cat_box-6">CDN DISTRIBUTION SERVICES<div class="cat_note-6"></div></div>
